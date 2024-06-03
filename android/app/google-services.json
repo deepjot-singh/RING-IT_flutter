@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "530448433705",
+    "project_id": "ring-it-fc5fa",
+    "storage_bucket": "ring-it-fc5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530448433705:android:81f715d5d5b672012c9238",
+        "android_client_info": {
+          "package_name": "com.ringIt.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530448433705-7o66i9dhqsah4qo3agpfh3ptj3jopcc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ringIt.android",
+            "certificate_hash": "06df3ae1579e76a9c2b6328db43857d964dc4267"
+          }
+        },
+        {
+          "client_id": "530448433705-m943ujsepkmt2kidtae5ovtu2fo85hj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoLHJGD4ufU336dWD5RZAzg3wz2Uw0zvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530448433705-m943ujsepkmt2kidtae5ovtu2fo85hj0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530448433705-dtalv8k2f7kmjg1q67vbevommlin62d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ringIt.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
