@@ -363,10 +363,11 @@ class _HomeCreenViewState extends State<HomeScreenView> {
                         height: 5,
                       ),
                       Text(
-                        manager.adminContactNo != "" &&
-                                manager.adminContactNo != "null"
-                            ? manager.adminContactNo
-                            : "+91 8360569090",
+                        // manager.adminContactNo != "" &&
+                        //         manager.adminContactNo != "null"
+                        //     ? manager.adminContactNo
+                        //     : 
+                            "+91 8146962162",
                         style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.w600,
