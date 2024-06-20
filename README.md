@@ -1,4 +1,4 @@
-# foodorder
+# Ring_it Application
 
 A new Flutter project.
 
